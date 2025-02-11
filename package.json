@@ -9,6 +9,9 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
@@ -31,8 +34,4 @@
     "vite": "^5.4.2"
   }
 }
-{
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
-}
+
